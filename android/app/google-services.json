@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464243388413",
+    "project_id": "multihaber-196b6",
+    "storage_bucket": "multihaber-196b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464243388413:android:f3166daf4cb2cd1ccbb394",
+        "android_client_info": {
+          "package_name": "com.masterson.multi_haber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464243388413-lr5emod09pegr3mm7spuftcic0ljr57d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCv-mjbPZ9sPMXQWHAsGoaKBzLIQeoT7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464243388413-lr5emod09pegr3mm7spuftcic0ljr57d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
