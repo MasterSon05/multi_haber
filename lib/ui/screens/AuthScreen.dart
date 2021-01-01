@@ -16,14 +16,14 @@ class AuthScreen extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.only(top: 70.0, bottom: 20.0),
                 child: Icon(
-                  Icons.phone_iphone,
+                  Icons.rss_feed_rounded,
                   size: 150,
                   color: Colors.blue,
                 ),
               ),
             ),
             Text(
-              'İdol Digital\'e Hoş Geldin',
+              'Multi Haber\'e Hoş Geldin',
               textAlign: TextAlign.center,
               style: TextStyle(
                   color: Colors.blue,
